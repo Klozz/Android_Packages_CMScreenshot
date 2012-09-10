@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Captura de Pantalla</string>
+
+    <string name="toast_error">Error:</string>
+    <string name="toast_save_location">Captura guardada como:</string>
+    <string name="share_message">Compartir captura de pantalla</string>
+    <string name="no_way_to_share">No hay manera de compartir captura de pantalla</string>
+    <string name="not_mounted">SD no montada</string>
+</resources>
